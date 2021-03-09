@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Cursed Music.wav-a81acb07ca6a6ec4f197435d87c6f4eb.sample"
+
+[deps]
+
+source_file="res://Assets/Cursed Music.wav"
+dest_files=[ "res://.import/Cursed Music.wav-a81acb07ca6a6ec4f197435d87c6f4eb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
